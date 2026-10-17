@@ -1,5 +1,3 @@
-# Built by Olivia — https://discord.gg/ojailbreaks
-# absolute ollie selfbot — 200+ cut, functioned, skull-react capable
 import os, json, asyncio, random, time, math, hashlib, base64, re, string, datetime
 import discord
 from discord.ext import commands, tasks
